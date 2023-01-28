@@ -1,0 +1,7 @@
+streamlit
+nltk
+Sastrawi
+pandas
+docx2txt
+numpy
+skickit-learn
