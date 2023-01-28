@@ -12,7 +12,7 @@ Untuk menjalankan proogram ini, perlu diperhatikan sebagai berikut :
 5. Masukkan data train yang dimiliki
 6. Tunggu hingga hasil analisis sudah selesai !
 
-Contoh Pengaplikasian : 
+# Contoh Pengaplikasian : 
 
 ![image](https://user-images.githubusercontent.com/86830762/215286786-cc450285-fd6f-4fc6-a4ff-6fdc9cade239.png)
 ![image](https://user-images.githubusercontent.com/86830762/215286796-f78afb25-caff-4c51-8a64-0a8b9cd74b51.png)
