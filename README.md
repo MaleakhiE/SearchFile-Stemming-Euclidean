@@ -1,4 +1,4 @@
-# SearchFile-Stemming-K-Means-
+# SearchFile-Stemming-Euclidean
 
 Ditujukan untuk memenuhi nilai akhir mata kuliah Data Mining dan Information Retrieval, dengan menggunakan Python dan Streamlit.
 
@@ -12,6 +12,7 @@ Untuk menjalankan proogram ini, perlu diperhatikan sebagai berikut :
 5. Masukkan data train yang dimiliki
 6. Tunggu hingga hasil analisis sudah selesai !
 
+===
 Contoh Pengaplikasian : 
 
 ![image](https://user-images.githubusercontent.com/86830762/215286786-cc450285-fd6f-4fc6-a4ff-6fdc9cade239.png)
